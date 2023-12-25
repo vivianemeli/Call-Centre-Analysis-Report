@@ -62,7 +62,7 @@ From the report;
 - Majority of the calls made over the 3 years were made for tech support
 - Over the 3 years, We made the most calls in March and the least calls in February
 
-  ## Conclusion and Recommendations
+## Conclusion and Recommendations
 
 - Jacksonville, FL recorded the highest sales over the three years, Edna's Call Centre should consider opening new stores in Jacksonville and its environs as a start to its expansion.
 - The number of calls made in February are extremely low and it remains the same over the three year, Edna's Call Centre should consider giving out discounts in February. Also, advance data would be needed for more insights as to what other factors could be the cause
