@@ -1,0 +1,9 @@
+MEASURES
+
+avg_duration = AVERAGE('calls table'[CallDuration])
+
+avg_waittime = AVERAGE('calls table'[WaitTime])
+
+total calls = COUNT('calls table'[CallTypeID])
+
+total_duration = SUM('calls table'[CallDuration])
