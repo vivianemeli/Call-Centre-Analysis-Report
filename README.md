@@ -48,7 +48,7 @@ PowerBI automatically connected related tables resulting in a star schema. The c
 
 ## Visualisation
 
-You can interact with the report [here](https://app.powerbi.com/groups/me/reports/5dd661b6-5a4e-490c-9868-304337ec0f5c/ReportSection997a80d0c61070b3fe94?experience=power-bi)
+You can interact with the report [here](https://app.powerbi.com/groups/me/reports/dad49f03-2be1-45ed-b1d3-40691687b915/ReportSection997a80d0c61070b3fe94?experience=power-bi)
 
 View code for Data Analysis Expression(DAX) used in report [here](CallCentreDAX.txt)
 
